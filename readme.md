@@ -1,0 +1,1 @@
+This is a simple WordPress plugin that writes an alert system into the backend of the HCS website. It allows for easy backend editing of the alert message and enabling/disabling. Nothing to write home about, but I like it!
