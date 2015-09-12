@@ -10,6 +10,5 @@ Array
     [alert_enbl] => 1
 )
 ```
-- **alert_title** is the title and goes in the heading of the alert box.
-- **alert_desc** is the description and goes in the paragraph of the alert box.
-- **alert_enbl** will be 1 if the alert is enabled and *will not be in the array at all* if it is disabled.
+- **alert_title** and **alert_desc** are simple strings.
+- **alert_enbl** will be 1 if the alert is enabled and will not be in the array at all if it is disabled.
