@@ -1,6 +1,11 @@
 This is a simple WordPress plugin that writes an alert system into the backend of the HCS website. It allows for easy backend editing of the alert message and enabling/disabling. Nothing to write home about, but I like it!
 
 ## Usage
+
+#### WordPress backend
+The alert's settings are given their own page parented to "Posts". You can easily edit the title, description, and enable/disable the alert.
+
+#### Code
 You can access the plugin's settings with `hcs_alert()`, which will `return` an array like so:
 ```
 Array
